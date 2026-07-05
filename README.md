@@ -2,6 +2,7 @@
 
 Version: 1.0
 Date prepared: 2026-07-05
+Public repository: https://github.com/mehmetsolakedu/alkaloid-poppy-pulp-energy-recovery-data
 
 ## Related manuscript
 
