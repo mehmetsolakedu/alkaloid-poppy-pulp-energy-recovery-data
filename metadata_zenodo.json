@@ -1,0 +1,31 @@
+{
+  "title": "Dataset for energy recovery from alkaloid poppy pulp pellets",
+  "upload_type": "dataset",
+  "description": "This dataset supports the manuscript 'Energy recovery from alkaloid poppy pulp pellets: bounded torrefaction response, ash constraints and utilization limits'. It contains local copies of the raw and processed analytical files used during manuscript audit and revision, including elemental analysis, ICP-OES, TGA/DTG, FTIR, XRF and related audit/provenance notes.",
+  "creators": [
+    {
+      "name": "Mehmet Solak",
+      "orcid": "0000-0002-0800-0334",
+      "affiliation": "Department of Biosystems Engineering, Faculty of Agriculture, Siirt University, Siirt, Turkey"
+    },
+    {
+      "name": "Kamil Ekinci",
+      "orcid": "0000-0002-7083-5199",
+      "affiliation": "Department of Agricultural Machinery and Technologies Engineering, Faculty of Agriculture, Isparta University of Applied Sciences, Isparta, Turkey"
+    }
+  ],
+  "keywords": [
+    "alkaloid poppy pulp",
+    "biomass",
+    "energy recovery",
+    "torrefaction",
+    "solid biofuel",
+    "ash constraints",
+    "TGA",
+    "ICP-OES"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "related_identifiers": [],
+  "notes": "Prepared for Taylor & Francis publicly available data policy compliance."
+}
