@@ -1,21 +1,21 @@
-# Dataset for energy recovery from alkaloid poppy pulp pellets
+# Dataset for torrefaction and fuel-quality assessment of alkaloid poppy pulp pellets
 
-Version: 1.0
-Date prepared: 2026-07-05
+Version: 1.1
+Date prepared: 2026-07-13
 Public repository: https://github.com/mehmetsolakedu/alkaloid-poppy-pulp-energy-recovery-data
 
 ## Related manuscript
 
-Energy recovery from alkaloid poppy pulp pellets: bounded torrefaction response, ash constraints and utilization limits
+Torrefaction of alkaloid poppy pulp pellets: fuel-property gains constrained by ash and handling quality
 
 ## Description
 
-This dataset supports the manuscript 'Energy recovery from alkaloid poppy pulp pellets: bounded torrefaction response, ash constraints and utilization limits'. It contains local copies of the raw and processed analytical files used during manuscript audit and revision, including elemental analysis, ICP-OES, TGA/DTG, FTIR, XRF and related audit/provenance notes.
+This dataset supports the manuscript 'Torrefaction of alkaloid poppy pulp pellets: fuel-property gains constrained by ash and handling quality'. It contains local copies of the raw and processed analytical files used during manuscript audit and revision, including elemental analysis, ICP-OES, TGA/DTG, FTIR, XRF and related audit/provenance notes.
 
 ## Creators
 
-- Mehmet Solak, ORCID 0000-0002-0800-0334, Department of Biosystems Engineering, Faculty of Agriculture, Siirt University, Siirt, Turkey.
-- Kamil Ekinci, ORCID 0000-0002-7083-5199, Department of Agricultural Machinery and Technologies Engineering, Faculty of Agriculture, Isparta University of Applied Sciences, Isparta, Turkey.
+- Mehmet Solak, ORCID 0000-0002-0800-0334, Department of Biosystems Engineering, Faculty of Agriculture, Siirt University, Siirt, Türkiye.
+- Kamil Ekinci, ORCID 0000-0002-7083-5199, Department of Agricultural Machinery and Technologies Engineering, Faculty of Agriculture, Isparta University of Applied Sciences, Isparta, Türkiye.
 
 ## Folder structure
 
