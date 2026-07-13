@@ -1,24 +1,24 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite the associated manuscript and this data repository."
-title: "Dataset for energy recovery from alkaloid poppy pulp pellets"
-version: "1.0"
-date-released: "2026-07-05"
+title: "Dataset for torrefaction and fuel-quality assessment of alkaloid poppy pulp pellets"
+version: "1.1"
+date-released: "2026-07-13"
 type: dataset
 authors:
   - family-names: Solak
     given-names: Mehmet
     orcid: "https://orcid.org/0000-0002-0800-0334"
-    affiliation: "Department of Biosystems Engineering, Faculty of Agriculture, Siirt University, Siirt, Turkey"
+    affiliation: "Department of Biosystems Engineering, Faculty of Agriculture, Siirt University, Siirt, Türkiye"
   - family-names: Ekinci
     given-names: Kamil
     orcid: "https://orcid.org/0000-0002-7083-5199"
-    affiliation: "Department of Agricultural Machinery and Technologies Engineering, Faculty of Agriculture, Isparta University of Applied Sciences, Isparta, Turkey"
+    affiliation: "Department of Agricultural Machinery and Technologies Engineering, Faculty of Agriculture, Isparta University of Applied Sciences, Isparta, Türkiye"
 keywords:
   - alkaloid poppy pulp
-  - biomass
-  - energy recovery
   - torrefaction
   - solid biofuel
+  - pellet durability
+  - fuel standards
   - ash constraints
   - TGA
   - ICP-OES
